@@ -102,9 +102,9 @@ Uma tarefa é considerada **pronta** quando:
 ## 📅 Sprints
 Sprint | Previsão | Status | Relatório | Vídeo do Projeto |
 |------|--------|------|---------|----------|
-|01 | 16/03/2026 - 05/04/2026 |✅ Concluído| [Ver Relatório](https://github.com/GeneSys-fatec/API-4DSM/wiki/Entregáveis-Sprint-1) | <a href='https://youtu.be/m4sEB9klfE4'>Ver Vídeo</a> |
-|02|  13/04/2026 - 03/05/2026 |✅ Concluído| [Ver Relatório](https://github.com/GeneSys-fatec/API-4DSM/wiki/Entregáveis-Sprint-2) | <a href='https://youtu.be/mbkQFutfMhY'>Ver Vídeo</a> |
-|03| 11/05/2026 - 31/05/2026 |⏳ A iniciar| [Ver Relatório]() | <a href=''>Ver Vídeo</a> |
+|01 | 16/03/2026 - 05/04/2026 |✅ Concluído| [Ver Relatório](https://github.com/GeneSys-fatec/API-4DSM/tree/docs-sprint-1#sprint-1-16032026---05042026) | <a href='https://youtu.be/m4sEB9klfE4'>Ver Vídeo</a> |
+|02|  13/04/2026 - 03/05/2026 |✅ Concluído| [Ver Relatório](https://github.com/GeneSys-fatec/API-4DSM/tree/docs-sprint-2#sprint-2-13042026---03052026) | <a href='https://youtu.be/mbkQFutfMhY'>Ver Vídeo</a> |
+|03| 11/05/2026 - 31/05/2026 |⏳ Em andamento| [Ver Relatório]() | <a href=''>Ver Vídeo</a> |
 
 <br>
 
@@ -114,20 +114,20 @@ Sprint | Previsão | Status | Relatório | Vídeo do Projeto |
  
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
  
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=007ACC)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=316192)
 ![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=00599C)
 ![ESP32](https://img.shields.io/badge/ESP32-20232A?style=for-the-badge&logo=espressif&logoColor=E7352C)
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
 ![Jira](https://img.shields.io/badge/Jira-20232A?style=for-the-badge&logo=jira&logoColor=0052CC)
 ![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Swagger](https://img.shields.io/badge/Swagger-20232A?style=for-the-badge&logo=swagger&logoColor=85EA2D)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-20232A?style=for-the-badge&logo=redhat&logoColor=EE0000)
 
 <br>
 
